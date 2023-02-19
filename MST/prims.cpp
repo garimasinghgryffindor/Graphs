@@ -1,6 +1,8 @@
 // MST
 // GREEDY
 // Prims
+// USING PRIORITY QUEUE
+
 #include <iostream>
 #include <vector>
 #include <utility>
