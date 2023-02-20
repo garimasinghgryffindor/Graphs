@@ -2,6 +2,7 @@
 // SSSP
 // GREEDY
 // DIJKSTRA
+// using priority queue
 
 #include <iostream>
 #include <vector>
